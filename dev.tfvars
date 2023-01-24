@@ -1,0 +1,2 @@
+rgname = "BRrg"
+Loc = "EastUS"
