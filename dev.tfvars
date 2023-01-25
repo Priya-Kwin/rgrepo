@@ -1,2 +1,2 @@
 rgname = "BRrg"
-loc = "EastUS"
+loc = "East US"
